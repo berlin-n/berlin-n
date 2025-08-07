@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @berlin-n, formerly known as Efe
-- 👀 I’m interested in Machine Learning, Software Engineering, SQL, anything Python can do basically
-- 🌱 I’m currently learning SQL, Data Structures and Algorithms with Python, to improve my technical skills with LeetCode Practice
-- 💞️ I’m looking to collaborate on Machine Learning Projects that can broaden my knowledge of Machine Learning, software development projects with high level of technicality
-- 📫 How to reach me? if you want to, you will
+- 👋 Hi, I’m @berlin-n, formerly known as Efe.
+- 👀 I’m interested in Machine Learning, Software Engineering, and anything Python can do.
+- 🌱 I’m currently learning Agentic AI, using big Data tools, and improving my ML skills by implementing algorithms from scratch.
+- 💞️ I’m looking to collaborate on Machine Learning Projects that can broaden my knowledge of Machine Learning, and software development projects--mostly ML.
+- 📫 How to reach me? Mail me: efaykayy@gmail.com
 - 😄 Pronouns: HIM
-- ⚡ Fun fact: There's none. Lock in BYOI💪
+- ⚡ Fun fact: There's none 😭.
