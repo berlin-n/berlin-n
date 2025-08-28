@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @berlin-n, formerly known as Efe.
-- 👀 I’m interested in Machine Learning, Software Engineering, and anything Python can do.
+- 👀 I’m interested in Machine Learning, Software Engineering, and applied research in Machine Learning.
 - 🌱 I’m currently learning Agentic AI, using big Data tools, and improving my ML skills by implementing algorithms from scratch.
 - 💞️ I’m looking to collaborate on Machine Learning Projects that can broaden my knowledge of Machine Learning, and software development projects--mostly ML.
 - 📫 How to reach me? Mail me: efaykayy@gmail.com
